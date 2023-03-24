@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    height: auto;
+    min-height: 100%;
+}
+body{
+    background: linear-gradient(to bottom,rgb(1, 48, 1),black);
+
+}
+nav{
+    border: 1px solid black;
+}
